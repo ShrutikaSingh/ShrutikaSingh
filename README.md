@@ -1,6 +1,4 @@
 ### Hi there 👋, I am Shrutika! 😁
-
-Hi, I'm Shrutika 👋
 AI Software Engineer at Meta working on multimodal foundation models for 3D scene understanding — vision, point-cloud, and LLMs at production scale.
 
 - 🔭 Research interests: multimodal learning, LLM inference optimization, embodied AI, and human-robot interaction
